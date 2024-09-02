@@ -18,7 +18,12 @@
     >I'm Fatemeh
   </h2>
   <p dir="auto">
-    I'm a Front-end software engineer who enjoys building things that live on the internet. <br />
-    I develop exceptional websites and web apps that provide intuitive, <br />
+    I'm a Front-End Developer Specializing in Bootstrap, Tailwind CSS, JavaScript, React, and Next.js
+
+I am a passionate and experienced front-end developer specializing in designing and implementing modern, user-friendly interfaces. My expertise in tools like Bootstrap and Tailwind CSS allows me to create stunning and responsive designs that look great on any device.
+
+With extensive experience in JavaScript, I bring complex, interactive functionalities to life efficiently. Leveraging React and Next.js, I build applications that are not only fast but also SEO-optimized, ensuring a flawless user experience.
+
+I am always striving for excellence, with a strong focus on quality and attention to detail. My goal is to deliver solutions that not only meet current needs but also provide a solid foundation for future growth. <br />
   </p>
  
